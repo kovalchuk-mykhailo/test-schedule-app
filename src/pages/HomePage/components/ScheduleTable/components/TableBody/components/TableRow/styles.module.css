@@ -1,0 +1,14 @@
+.scheduleBook {
+  width: 4rem;
+  height: 0.7rem;
+  border: 1px solid;
+  padding: 0.3rem;
+}
+
+.free {
+  background: rgb(50, 224, 50);
+}
+
+.booked {
+  background: rgb(56, 120, 240);
+}

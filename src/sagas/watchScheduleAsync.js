@@ -1,5 +1,5 @@
 import { takeEvery, call, put } from "redux-saga/effects";
-import { setCounter } from "../actions/counter";
+
 import {
   getScheduleFailure,
   getScheduleRequest,
