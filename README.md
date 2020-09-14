@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+** **
+## Installing
+**Version of `node` must be at least 12.18.2**
+
+1. Run `npm install` for install all project dependecies;
+
 ## Available Scripts
 
 In the project directory, you can run:
